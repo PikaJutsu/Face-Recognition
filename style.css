@@ -1,0 +1,21 @@
+body
+{
+color:darkturquoise;
+background: navy ;
+}
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+.name_of_objects , #result_object_name, #result_object_accuracy
+{
+    color: crimson;
+}
+#camera
+{
+    border: 2px dashed mediumturquoise;
+    width:350px;
+    height:300px;
+    
+}
